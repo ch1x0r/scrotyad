@@ -1,6 +1,6 @@
 # scrotyad
-# marcia wilbur GPLv3+
-
+#### Author: Marcia Wilbur
+#### License: GPLv3.0+
 This tool uses scrot to take image screen captures in the back.
 You can:
 
