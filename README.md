@@ -10,3 +10,16 @@ You can:
 - set notifications enabled/disabled
 
 questions: Marcia Wilbur (aicra at faqlinux.com)
+
+# Install and run
+Download scrotyad deb from here or sourceforge
+Install using dpkg -i or software manager
+To run the script, use the command: scrotyad.sh
+The app will display
+Select the options
+Click Start
+
+# Uninstall
+dpkg -r scrotyad
+
+Enjoy
